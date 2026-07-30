@@ -2,7 +2,13 @@
 
 A cute dynamic GitHub README widget built with Next.js, GitHub GraphQL API, and SVG.
 
-![Preview](./public/assets/preview.png)
+<p align="center">
+  <img
+    src="https://github-readme-widget-black.vercel.app/api/pet"
+    alt="GitHub Pet Widget"
+    width="330"
+  />
+</p>
 
 ## ✨ Features
 
